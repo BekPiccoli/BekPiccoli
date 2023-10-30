@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BekPiccoli
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning object-oriented programming in C++
 - 📫 How to reach me: @be_.piccoli on Instagram // Bernardo Kniest Piccoli on Telegram.
 
