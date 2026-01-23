@@ -1,8 +1,8 @@
-```### What's up! I'm Bernardo Piccoli! 😁
+What's up! I'm Bernardo Piccoli! 😁
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/bekpiccoli)
 
-### Tecnologias:
+Tecnologias:
 <div style="display: inline_block"><br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -11,5 +11,3 @@
     <img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img aling="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br>
-
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
