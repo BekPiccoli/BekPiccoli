@@ -1,6 +1,6 @@
 What's up! I'm Bernardo Piccoli! 😁
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/bekpiccoli)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekpiccoli)
 
 Tecnologias:
 <div style="display: inline_block"><br>
