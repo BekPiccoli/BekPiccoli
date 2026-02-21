@@ -5,6 +5,7 @@ Passionate about building scalable web applications using the JavaScript ecosyst
 Focused on backend development, API design, and database integration.
 
 📍 Brazil
+
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekpiccoli)
 
  Tech Stack
