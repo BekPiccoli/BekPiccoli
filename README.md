@@ -40,3 +40,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BekPiccoli&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BekPiccoli&theme=tokyonight&hide_border=true)
+
+## ⏱️ WakaTime Stats:
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BekPiccoli&theme=tokyonight&hide_border=true)
