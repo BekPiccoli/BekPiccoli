@@ -36,5 +36,7 @@
 ## 📊 GitHub Stats:
 
 ![Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekPiccoli&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BekPiccoli&layout=compact&theme=tokyonight&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=BekPiccoli&theme=tokyonight&hide_border=true)
